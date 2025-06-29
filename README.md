@@ -1,4 +1,4 @@
-# Sales & Profit Dashboard - Power BI Project
+# Sales dataset Dashboard - Power BI Project
 
 ## 📊 Project Overview
 This Power BI dashboard was created to analyze and visualize sales and profit performance across different product lines and regions. It is designed to help business stakeholders make informed decisions through interactive and clear data visualizations.
